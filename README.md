@@ -25,11 +25,10 @@ JavaScript: For interactivity and dynamic content rendering.
 jQuery: For DOM manipulation (if applicable).
 
 **Installation:**
-1. Clone the repository: 
-2. Navigate to the project directory:
+1. Clone the repository: git clone https://github.com/lisa-saha/MyPorfolio-LISASAHA
+2. Navigate to the project directory: cd MyPorfolio-LISASAHA
 3. Open index.html in your browser:
-
-Simply open the index.html file in your preferred browser to view the portfolio locally.
+            Simply open the index.html file in your preferred browser to view the portfolio locally.
 
 **Usage:**
 You can edit the content in the index.html file to update the sections with your personal information, skills, projects, and contact details.
